@@ -17,3 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 https://github.com/user-attachments/assets/60652700-c07e-4bc8-a0ed-631f27e95715
+
+Steps:
+1. Copy codes from lib file which contains 3 dart files.
+2. run main.dart file
+3. log in screen will appear.
